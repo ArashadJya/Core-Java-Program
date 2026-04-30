@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/1D Array/1D Array.iml" filepath="$PROJECT_DIR$/Array/1D Array/1D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Traversiing/1DArray/1DArray.iml" filepath="$PROJECT_DIR$/Array/Traversiing/1DArray/1DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/2D Array/2D Array.iml" filepath="$PROJECT_DIR$/Array/2D Array/2D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Traversiing/2DArray/2DArray.iml" filepath="$PROJECT_DIR$/Array/Traversiing/2DArray/2DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/3D Array/3D Array.iml" filepath="$PROJECT_DIR$/Array/3D Array/3D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Traversiing/3DArray/3DArray.iml" filepath="$PROJECT_DIR$/Array/Traversiing/3DArray/3DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/OOPs/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CHALLANGE/CHALLANGE.iml" filepath="$PROJECT_DIR$/CHALLANGE/CHALLANGE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Deletion/Deletion.iml" filepath="$PROJECT_DIR$/Array/Deletion/Deletion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/Inheritence/Inheritence.iml" filepath="$PROJECT_DIR$/OOPs/Inheritence/Inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Insertion/Insertion.iml" filepath="$PROJECT_DIR$/Array/Insertion/Insertion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Deepak Sir.iml" filepath="$PROJECT_DIR$/.idea/Java Deepak Sir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Searching/Searching.iml" filepath="$PROJECT_DIR$/Array/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Array/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/anonymousArray/anonymousArray.iml" filepath="$PROJECT_DIR$/Array/anonymousArray/anonymousArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/class/class.iml" filepath="$PROJECT_DIR$/OOPs/class/class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/constructer/constructer.iml" filepath="$PROJECT_DIR$/OOPs/constructer/constructer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/merging/merging.iml" filepath="$PROJECT_DIR$/Array/merging/merging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/others/others.iml" filepath="$PROJECT_DIR$/Array/others/others.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/OOPs/polymorphism/polymorphism.iml" />
+    </modules>
+  </component>
+</project>
