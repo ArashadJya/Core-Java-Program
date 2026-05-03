@@ -1,6 +1,6 @@
  class string {
     public static void main(String[] args) {
-        char[] c={'a','r','s','h','a','d'};
+        char[] c={'a','r','a','s','h','a','d'};
         String b=new String(c);
         
 
