@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1D Array/1D Array.iml" filepath="$PROJECT_DIR$/1D Array/1D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Traversiing/1DArray/1DArray.iml" filepath="$PROJECT_DIR$/Traversiing/1DArray/1DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2D Array/2D Array.iml" filepath="$PROJECT_DIR$/2D Array/2D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Traversiing/2DArray/2DArray.iml" filepath="$PROJECT_DIR$/Traversiing/2DArray/2DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3D Array/3D Array.iml" filepath="$PROJECT_DIR$/3D Array/3D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Traversiing/3DArray/3DArray.iml" filepath="$PROJECT_DIR$/Traversiing/3DArray/3DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Array.iml" filepath="$PROJECT_DIR$/.idea/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deletion/Deletion.iml" filepath="$PROJECT_DIR$/Deletion/Deletion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insertion/Insertion.iml" filepath="$PROJECT_DIR$/Insertion/Insertion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anonymousArray/anonymousArray.iml" filepath="$PROJECT_DIR$/anonymousArray/anonymousArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merging/merging.iml" filepath="$PROJECT_DIR$/merging/merging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/others/others.iml" filepath="$PROJECT_DIR$/others/others.iml" />
+    </modules>
+  </component>
+</project>

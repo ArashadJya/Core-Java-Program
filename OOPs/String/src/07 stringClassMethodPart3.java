@@ -15,7 +15,7 @@
 //         //it is used to give to the specific symbol between each two string
 //
          String s3="This is demo";
-         System.out.println(s3.subSequence(3,9));  //s is d
+         System.out.println(s3.substring(3,9));  //s is d
          System.out.println(s3.substring(3));
          System.out.println(s3.substring(3,11));
      }
