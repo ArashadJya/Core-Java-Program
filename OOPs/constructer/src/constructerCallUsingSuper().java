@@ -12,4 +12,4 @@ class engineer {
         salary s=new salary("Arashad",54645);
     }
 }
-//in the case of constructer super() is used to invoke the parrent class coinstructer in the sub class constructer
+//in the case of constructor super() is used to invoke the parent class constructor in the subclass constructor

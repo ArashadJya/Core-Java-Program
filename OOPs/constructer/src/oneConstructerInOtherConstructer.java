@@ -20,5 +20,5 @@
          t.display();
      }
 }
-//in the case of constructer this() is used to invoke the one constructer in other constructer within same class
+//in the case of constructor this() is used to invoke the one constructor in other constructor within the same class
 // but parameters not should be same

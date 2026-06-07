@@ -10,8 +10,11 @@ class B extends A{
 
     public static void main(String[] args) {
         B ob=new B();
-        ob.show1();
         ob.show2();
+        ob.show1();
+
+
+
     }
 
 }

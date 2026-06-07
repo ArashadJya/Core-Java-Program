@@ -16,12 +16,12 @@
      public static void main(String[] args) {
          strudent s1=new strudent("Arashad",20);
          strudent s2=new strudent(s1);
-         System.out.println("parameterised constructer ");
+         System.out.println("parameterised constructor ");
          s1.display();
-         System.out.println("copy constructer ");
+         System.out.println("copy constructor ");
          s2.display();
 
-         System.out.println("After modifying the copy constructer");
+         System.out.println("After modifying the copy constructor");
          s2.name="Arif";
          s2.roll=12;
          s2.display();

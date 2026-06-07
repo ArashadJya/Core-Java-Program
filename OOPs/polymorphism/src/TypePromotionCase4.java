@@ -12,6 +12,6 @@
          t.show(4.5f,4);
 //         t.show("abc",4);
          //in this two same data type have in this method then compiler will
-         // be confuse and provide to the ambugity error
+         // be confused and provide to the ambugity error
      }
 }

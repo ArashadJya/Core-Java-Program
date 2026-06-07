@@ -13,4 +13,5 @@
             d.bark();
         }
     }
+    //It is inherited the properties of parent class into child class by using extend keyword
 
