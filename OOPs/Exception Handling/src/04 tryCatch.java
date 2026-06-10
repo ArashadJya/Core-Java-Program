@@ -5,10 +5,10 @@
              c=a/b;
              System.out.println(c);
          }
-         catch (Exception es){
-                es.printStackTrace();
-             System.out.println(es);
-             System.out.println(es.getMessage());
+         catch (Exception e){
+                e.printStackTrace();
+             System.out.println(e);
+             System.out.println(e.getMessage());
          }
 
      }

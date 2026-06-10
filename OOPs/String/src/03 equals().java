@@ -1,4 +1,4 @@
- class demos {
+ class demos1 {
      public static void main(String[] args) {
          String s1=new String("jya");
          String s2=new String("jya");

@@ -7,7 +7,7 @@ class readWrite {
         FileInputStream fis=new FileInputStream("d:/abc.txt");
     }
     void savefile() throws FileNotFoundException{
-        FileOutputStream fos=new FileOutputStream("d:/xyz.txts");
+        FileOutputStream fos=new FileOutputStream("d:/xyz.txt");
     }
 }
 class test5{
