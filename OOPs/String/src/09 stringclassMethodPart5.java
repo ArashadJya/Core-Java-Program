@@ -6,6 +6,6 @@
 //         System.out.println(s.charAt(6));
          System.out.println(s.contains("h"));
          System.out.println(s.startsWith("Ar"));
-         System.out.println(s.endsWith("b"));
+         System.out.println(s.endsWith("d"));
      }
 }

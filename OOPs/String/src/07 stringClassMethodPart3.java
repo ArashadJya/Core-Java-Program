@@ -8,7 +8,7 @@
 //         System.out.println(s1+10);  //Arashad10
 //         System.out.println(s1+10+20); //Arashad1020
 //         System.out.println(10+20+s1);  //30Arashad
-//         System.out.println(s1.concat(s2));
+         System.out.println(s1.concat(s2));
 //
 //         System.out.println("Join method");
 //         System.out.println(String.join(",",s1,s2,s1));
