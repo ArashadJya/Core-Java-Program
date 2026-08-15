@@ -9,7 +9,7 @@ class Totalearning extends Thread{
             this.notify();
         }
     }
-}
+    }
  class moviebookapp1 {
      public static void main(String[] args) throws InterruptedException {
          Totalearning te=new Totalearning();

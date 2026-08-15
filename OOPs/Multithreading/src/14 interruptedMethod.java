@@ -1,7 +1,7 @@
  class interruptedMethod extends Thread {
      @Override
      public void run() {
-         System.out.println(Thread.interrupted());//status change from true to false
+//         System.out.println(Thread.interrupted());//status change from true to false
          try{
              for (int i=1;i<=5;++i){
                  System.out.println(i);

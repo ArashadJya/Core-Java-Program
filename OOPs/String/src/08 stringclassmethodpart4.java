@@ -4,7 +4,7 @@
 //         System.out.println(s1.replace("i","z"));
 //         System.out.println(s1.replaceFirst("is","was"));
 //         System.out.println(s1.replaceAll("is","was"));
-         System.out.println(s1.replaceAll("is(.)","was"));
+//         System.out.println(s1.replaceAll("is(.)","was"));
          System.out.println(s1.replaceAll("is(.*)","was"));
      }
 }

@@ -11,5 +11,7 @@
          t.setDaemon(true);
          System.out.println("aaa");
          t.start();
+
+         System.out.println("bbb");
      }
  }

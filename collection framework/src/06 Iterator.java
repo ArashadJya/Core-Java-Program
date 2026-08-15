@@ -9,6 +9,8 @@ class itrDemo {
          l.add(54);
          l.add(53);
          l.add(65);
+         l.add("arashad");
+         l.add("khan");
          Iterator itr=l.iterator();
          while (itr.hasNext()){
              System.out.println(itr.next());

@@ -1,4 +1,4 @@
-import java.awt.*;
+//import java.awt.*;
 import java.util.ArrayList;
 import java.util.Iterator;
 
@@ -32,7 +32,7 @@ class ArrayListDemo   {
 
          //constructer3 collection constructer
          ArrayList al2=new ArrayList(al1);
-         al2.add(76);   //it is used to add the element in yhe collection object
+         al2.add(76);   //it is used to add the element in the collection object
          al2.add(76);
          al2.add(23);
          al2.add(87);

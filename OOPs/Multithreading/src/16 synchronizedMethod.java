@@ -32,10 +32,12 @@ class BookTheaterSeat{
 
         MoivieBookApp jya=new MoivieBookApp();
         jya.seats=4;
+        jya.name="Jya";
         jya.start();
 
         MoivieBookApp arif=new MoivieBookApp();
         arif.seats=5;
         arif.start();
+        arif.name="Arif";
     }
 }

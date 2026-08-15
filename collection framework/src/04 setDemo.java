@@ -14,6 +14,7 @@ class setDemo {
           s.add(500);
           s.add(null);
           s.add(null);
+
           System.out.println(s);
           Iterator itr=s.iterator();
           while (itr.hasNext()){

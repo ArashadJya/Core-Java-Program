@@ -11,8 +11,11 @@ class test5 extends Thread{
         }
     }
 
+
     public static void main(String[] args) {
         test5 t=new test5();
         t.start();
     }
 }
+
+//Sleep() is used to stop the execution of program for specific time
