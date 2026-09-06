@@ -13,6 +13,7 @@
          System.out.println("Method");
          StringBuffer sb3=new StringBuffer("Hello Arashad");
          System.out.println(sb3.append("hi"));//append() method is use to add new string after the old string
+         System.out.println(sb3);
          System.out.println(sb3.charAt(3));
          System.out.println(sb3.delete(2,5));
          System.out.println(sb3.deleteCharAt(3));

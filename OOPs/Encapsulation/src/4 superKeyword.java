@@ -13,4 +13,4 @@ class B extends A{
         ob1.show(12);
 }
     }
-//it is used to refer immediate parrent class instance variable
+//In Java, the super keyword refers to the immediate parent class (superclass) of the current object.

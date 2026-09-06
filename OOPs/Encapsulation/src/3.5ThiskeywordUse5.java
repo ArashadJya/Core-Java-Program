@@ -17,7 +17,7 @@ class ThisDemo {
     }
 }
 //USE 5
-//This keyword can be used to pass an argument in constructer call
-//agar ek class ke andar ek constructer hai to ham dusre class ke method ke andar constructer ka object banakar usme argument ke jagah par
+//This keyword can be used to pass an argument in constructor call
+//agar ek class ke andar ek constructor hai to ham dusre class ke method ke andar constructer ka object banakar usme argument ke jagah par
 // this keyword ka use karke constructer ko call kara sakte hai
 

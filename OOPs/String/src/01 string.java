@@ -10,7 +10,7 @@
          System.out.println(b);
 
          System.out.println(b.charAt(5));
-        //String ek immutable object hota hai usme valzue chamnge nahi hota hai
+        //String ek immutable object hota hai usme value chamnge nahi hota hai
 
          String s1="Arashad";
          String s2="Jya";

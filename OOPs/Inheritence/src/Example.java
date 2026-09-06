@@ -1,6 +1,6 @@
  class Animal {
      void eat() {
-         System.out.println("animal is eating ");
+         System.out.println("animal is eatingg ");
      }
  }
     class dog extends Animal{

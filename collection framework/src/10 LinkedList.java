@@ -8,6 +8,8 @@ class linkedList {
          al.add(200);
          al.add(300);
          al.add(400);
+         al.add(null);
+         al.add(null);
          LinkedList ll=new LinkedList(al);
 
          ll.add(23);

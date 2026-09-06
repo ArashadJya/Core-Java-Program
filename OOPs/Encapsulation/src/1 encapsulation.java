@@ -15,3 +15,6 @@ class company{
         System.out.println(e.getEmpid());
     }
 }
+
+
+//Encapsulation is used to hiding the data and access using Getter and setter methods

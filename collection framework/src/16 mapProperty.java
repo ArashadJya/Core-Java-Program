@@ -22,3 +22,4 @@ class mapProperty {
          //we can not add a multiple null value in a key but we can add a multiple null value in a value
      }
 }
+

@@ -10,7 +10,7 @@ class EvenOdd {
              System.out.println("Number "+num+" is Even ");
          }
          else{
-             System.out.println("This number is Odd ");
+             System.out.println("This "+num+" number is Odd ");
          }
      }
 }

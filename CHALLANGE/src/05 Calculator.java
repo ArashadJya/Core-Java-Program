@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Calculator {
+class Clculator {
      public static void main(String[] args) {
          Scanner input=new Scanner(System.in);
          System.out.println("Welcome to the mini claculator");
